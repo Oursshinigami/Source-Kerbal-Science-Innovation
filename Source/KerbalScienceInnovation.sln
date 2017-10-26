@@ -1,0 +1,116 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerbalScienceInnovation", "KerbalScienceInnovation\KerbalScienceInnovation.csproj", "{5D7F77F3-3FF9-48B2-AFF0-DF9EFB198D63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GameData", "GameData", "{B3B79BA8-5B26-4E10-88BE-FD551444EF2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KSI", "KSI", "{8F7A3447-E016-4D30-86BA-B66A105EC9DB}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\experiments.cfg = ..\GameData\KSI\experiments.cfg
+		..\GameData\KSI\READ ME.txt = ..\GameData\KSI\READ ME.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parts", "Parts", "{988CE838-1A1E-491F-8A5F-AA5818D83D8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Science", "Science", "{E58F677D-AEA1-4794-92EE-4BD635CF26FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patches", "Patches", "{ACCE3278-08CA-4D18-BCC3-0BB702AA3752}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\Patches\KSICommunityTechTree.cfg = ..\GameData\KSI\Patches\KSICommunityTechTree.cfg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AtomicFountain", "AtomicFountain", "{67F39B80-1FC4-4855-A456-12750D4191FF}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\Parts\Science\AtomicFountain\AF.cfg = ..\GameData\KSI\Parts\Science\AtomicFountain\AF.cfg
+		..\GameData\KSI\Parts\Science\AtomicFountain\HORLOGE.tga = ..\GameData\KSI\Parts\Science\AtomicFountain\HORLOGE.tga
+		..\GameData\KSI\Parts\Science\AtomicFountain\HorlogeCezium.mu = ..\GameData\KSI\Parts\Science\AtomicFountain\HorlogeCezium.mu
+		..\GameData\KSI\Parts\Science\AtomicFountain\UVMap.tga = ..\GameData\KSI\Parts\Science\AtomicFountain\UVMap.tga
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarkMatterCollector", "DarkMatterCollector", "{70F97DE1-5DB1-4B55-8FCF-5D09EC2B8958}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\Parts\Science\DarkMatterCollector\DMC.cfg = ..\GameData\KSI\Parts\Science\DarkMatterCollector\DMC.cfg
+		..\GameData\KSI\Parts\Science\DarkMatterCollector\DMC.mu = ..\GameData\KSI\Parts\Science\DarkMatterCollector\DMC.mu
+		..\GameData\KSI\Parts\Science\DarkMatterCollector\NRM_DMC.tga = ..\GameData\KSI\Parts\Science\DarkMatterCollector\NRM_DMC.tga
+		..\GameData\KSI\Parts\Science\DarkMatterCollector\UVmapDMC.tga = ..\GameData\KSI\Parts\Science\DarkMatterCollector\UVmapDMC.tga
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarkMatterSensor", "DarkMatterSensor", "{131FC802-51A8-48C4-B90F-3C48B08C2CB3}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\Parts\Science\DarkMatterSensor\DarkMatterSensor.mu = ..\GameData\KSI\Parts\Science\DarkMatterSensor\DarkMatterSensor.mu
+		..\GameData\KSI\Parts\Science\DarkMatterSensor\DMS.cfg = ..\GameData\KSI\Parts\Science\DarkMatterSensor\DMS.cfg
+		..\GameData\KSI\Parts\Science\DarkMatterSensor\UVMapDarkMatterSensortexture.tga = ..\GameData\KSI\Parts\Science\DarkMatterSensor\UVMapDarkMatterSensortexture.tga
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GravityWaveSensor", "GravityWaveSensor", "{96DA1898-F7E4-4A23-965B-74860A0379EA}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\Parts\Science\GravityWavesSensor\GWS.cfg = ..\GameData\KSI\Parts\Science\GravityWavesSensor\GWS.cfg
+		..\GameData\KSI\Parts\Science\GravityWavesSensor\LISA.mu = ..\GameData\KSI\Parts\Science\GravityWavesSensor\LISA.mu
+		..\GameData\KSI\Parts\Science\GravityWavesSensor\LISA.tga = ..\GameData\KSI\Parts\Science\GravityWavesSensor\LISA.tga
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContractPacks", "ContractPacks", "{A374A360-1954-4658-8B25-13631EA71F77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KSI", "KSI", "{937DAD0C-C624-42C2-A74D-44D203ED4EB4}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\ContractPacks\KSI\DarkMatterCollectionSun.cfg = ..\GameData\ContractPacks\KSI\DarkMatterCollectionSun.cfg
+		..\GameData\ContractPacks\KSI\GravityWaveExperiment.cfg = ..\GameData\ContractPacks\KSI\GravityWaveExperiment.cfg
+		..\GameData\ContractPacks\KSI\GravityWaveExperimentPlanets.cfg = ..\GameData\ContractPacks\KSI\GravityWaveExperimentPlanets.cfg
+		..\GameData\ContractPacks\KSI\GravityWaveExperimentSun.cfg = ..\GameData\ContractPacks\KSI\GravityWaveExperimentSun.cfg
+		..\GameData\ContractPacks\KSI\KSIGroup.cfg = ..\GameData\ContractPacks\KSI\KSIGroup.cfg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Agencies", "Agencies", "{AC02AD8A-262A-4A69-9E64-91CDC82337A9}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\ContractPacks\KSI\Agencies\Agents.cfg = ..\GameData\ContractPacks\KSI\Agencies\Agents.cfg
+		..\GameData\ContractPacks\KSI\Agencies\KSI.png = ..\GameData\ContractPacks\KSI\Agencies\KSI.png
+		..\GameData\ContractPacks\KSI\Agencies\KSI_scaled.png = ..\GameData\ContractPacks\KSI\Agencies\KSI_scaled.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Localization", "Localization", "{55EBC633-6C93-48A5-A3E3-5BD55BE79A09}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\KSI\Localization\en-us.cfg = ..\GameData\KSI\Localization\en-us.cfg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Localization", "Localization", "{09DDDF1C-2FD4-46DE-AAD7-7836F69AB93F}"
+	ProjectSection(SolutionItems) = preProject
+		..\GameData\ContractPacks\KSI\Localization\en-es.cfg = ..\GameData\ContractPacks\KSI\Localization\en-es.cfg
+		..\GameData\ContractPacks\KSI\Localization\en-us.cfg = ..\GameData\ContractPacks\KSI\Localization\en-us.cfg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7F77F3-3FF9-48B2-AFF0-DF9EFB198D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7F77F3-3FF9-48B2-AFF0-DF9EFB198D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7F77F3-3FF9-48B2-AFF0-DF9EFB198D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7F77F3-3FF9-48B2-AFF0-DF9EFB198D63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F7A3447-E016-4D30-86BA-B66A105EC9DB} = {B3B79BA8-5B26-4E10-88BE-FD551444EF2E}
+		{988CE838-1A1E-491F-8A5F-AA5818D83D8E} = {8F7A3447-E016-4D30-86BA-B66A105EC9DB}
+		{E58F677D-AEA1-4794-92EE-4BD635CF26FC} = {988CE838-1A1E-491F-8A5F-AA5818D83D8E}
+		{ACCE3278-08CA-4D18-BCC3-0BB702AA3752} = {8F7A3447-E016-4D30-86BA-B66A105EC9DB}
+		{67F39B80-1FC4-4855-A456-12750D4191FF} = {E58F677D-AEA1-4794-92EE-4BD635CF26FC}
+		{70F97DE1-5DB1-4B55-8FCF-5D09EC2B8958} = {E58F677D-AEA1-4794-92EE-4BD635CF26FC}
+		{131FC802-51A8-48C4-B90F-3C48B08C2CB3} = {E58F677D-AEA1-4794-92EE-4BD635CF26FC}
+		{96DA1898-F7E4-4A23-965B-74860A0379EA} = {E58F677D-AEA1-4794-92EE-4BD635CF26FC}
+		{A374A360-1954-4658-8B25-13631EA71F77} = {B3B79BA8-5B26-4E10-88BE-FD551444EF2E}
+		{937DAD0C-C624-42C2-A74D-44D203ED4EB4} = {A374A360-1954-4658-8B25-13631EA71F77}
+		{AC02AD8A-262A-4A69-9E64-91CDC82337A9} = {937DAD0C-C624-42C2-A74D-44D203ED4EB4}
+		{55EBC633-6C93-48A5-A3E3-5BD55BE79A09} = {8F7A3447-E016-4D30-86BA-B66A105EC9DB}
+		{09DDDF1C-2FD4-46DE-AAD7-7836F69AB93F} = {937DAD0C-C624-42C2-A74D-44D203ED4EB4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2D05D3-D343-4742-8504-2340824C9317}
+	EndGlobalSection
+EndGlobal
